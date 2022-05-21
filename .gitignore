@@ -1,0 +1,7 @@
+# DIRS
+.venv/
+core/static/
+__pycache__/
+
+# Files
+requirements.txt
