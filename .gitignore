@@ -2,6 +2,7 @@
 .venv/
 core/static/
 __pycache__/
+**/migrations/
 
 # Files
 requirements.txt
